@@ -1,0 +1,103 @@
+﻿body
+{
+	font-family:times,arial,serif;
+
+}
+
+header
+{
+	background-color:yellow;
+	color:red;
+	padding:10px;
+	margin:0;
+	overflow:hidden;
+}
+
+header img
+{
+	float:left;
+	width:150px;
+	height:150px;
+	margin-right:10px;
+}
+
+header h1
+{
+	font-family:algerian;
+	color:blue;
+	padding:0;
+	margin:0;
+	font-size:2.2em;	
+}
+
+header h2
+{
+	color:red;	
+	padding:0;
+	margin:0;
+	font-size:2.0em
+}
+
+.nav ul
+{
+	list-style-type:none;
+	background-color:grey;
+	margin:0;
+	padding:0px;
+	overflow:hidden;
+
+}
+
+.nav li
+{
+	float:left;
+	
+}
+
+.nav li a
+{
+	text-decoration:none;
+	padding:10px;
+	display:block;
+	color:black;		
+}
+
+.nav li a:hover
+{
+	background-color:green;
+	color:white;
+}
+
+
+.content
+{
+	background-color:pink;	
+	padding:0 10px;
+	border:5px solid black;
+}
+
+.content h1
+{
+	margin:5px 0 0 0;
+	font-size:1.8em;
+	color:brown;
+}
+
+.content h2
+{
+	margin:5px 0 0 0;
+	font-size:1.8em;
+	color:brown;
+}
+.content img
+{
+	float:right;
+	margin:10px;
+	box-shadow:3px 3px 3px 1px;
+}
+
+.footer
+{
+	padding:0 10px;
+	color:green;
+}
